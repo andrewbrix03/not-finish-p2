@@ -1,0 +1,16 @@
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\BillingSystemDesgin\obj\Debug\BillingSystemDesgin.csproj.AssemblyReference.cache
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\BillingSystemDesgin\obj\Debug\BillingSystemDesgin.ElectricalForm.resources
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\BillingSystemDesgin\obj\Debug\BillingSystemDesgin.InternetForm.resources
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\BillingSystemDesgin\obj\Debug\BillingSystemDesgin.PaymentPage.resources
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\BillingSystemDesgin\obj\Debug\BillingSystemDesgin.Properties.Resources.resources
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\BillingSystemDesgin\obj\Debug\BillingSystemDesgin.WaterForm.resources
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\BillingSystemDesgin\obj\Debug\BillingSystemDesgin.csproj.GenerateResource.cache
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\BillingSystemDesgin\obj\Debug\BillingSystemDesgin.csproj.CoreCompileInputs.cache
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\BillingSystemDesgin\bin\Debug\BillingSystemDesgin.exe.config
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\BillingSystemDesgin\bin\Debug\BillingSystemDesgin.exe
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\BillingSystemDesgin\bin\Debug\BillingSystemDesgin.pdb
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\BillingSystemDesgin\obj\Debug\BillingSystemDesgin.exe
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\BillingSystemDesgin\obj\Debug\BillingSystemDesgin.pdb
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\BillingSystemDesgin\obj\Debug\BillingSystemDesign.Blank.resources
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\BillingSystemDesgin\obj\Debug\BillingSystemDesign.LoginPage.resources
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\BillingSystemDesgin\obj\Debug\BillingSystemDesign.RegisterForm.resources
